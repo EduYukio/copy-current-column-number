@@ -1,41 +1,12 @@
-# copy-current-line-number README
+# copy-current-column-number README
 
-This is the README of "copy-current-line-number".
+Forked and altered from the [copy-current-line-number](https://marketplace.visualstudio.com/items?itemName=nzin4x.copy-current-line-number) extension by [nzin4x](https://github.com/nzin4x).
 
 ## Features
 
-just copy current line number to clipboard. if you run "copy current linenumber to clipboard" from command palette.
-
-For example if there is an image subfolder under your extension project workspace:
-
+You can call the command through the Command Pallete (Ctrl+Shift+P), by typing "copy current column number to clipboard".
 ![how to run](images/howto.png)
 
-
-## Requirements
-
-none
-
-## Extension Settings
-
-none
-
-## Known Issues
-
-* you must open editor
-
-## Release Notes
-
-initial version
-
-### 0.0.3
-
-help image added to readme
-
-### 0.0.2
-
-just added icon
-
-### 0.0.1
-
-Initial release of "copy current line number to clipboard"
+Or you can add a shortcut to it by accessing the keybindings list (Ctrl+Shift+P -> Keyboard Shortcuts), writing "copy current column" into the search bar and clicking into the Keybinding field.
+![how to run2](images/howto2.png)
 
